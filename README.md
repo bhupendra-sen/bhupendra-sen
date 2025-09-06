@@ -43,8 +43,6 @@ Integrated version control using Git & GitHub to manage testing workflows.
 💼 LinkedIn: www.linkedin.com/in/bhupendrasen10
 
 📧 Email: bhupendrasen10@gmail.com
-]
 
-🌍 Portfolio (if you make one later)
 
 ✨ Always learning, testing, and improving software quality.

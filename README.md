@@ -1,6 +1,6 @@
 👋 Hi, I'm Bhupendra Sen
 
-🚀 Junior Software QA Engineer | Manual & Automation Testing Enthusiast
+🚀 Junior Software QA Engineer | Manual & Automation Testing 
 
 I deliver high-quality software through hands-on manual testing of web and desktop applications and automation testing using Cypress with JavaScript. I design and execute test cases, log defects with proper severity and priority, and maintain clear test documentation to ensure reliable software.
 

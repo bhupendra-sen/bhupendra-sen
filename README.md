@@ -1,48 +1,42 @@
 👋 Hi, I'm Bhupendra Sen
 
-🚀 Aspiring QA Engineer | Manual & Automation Testing Enthusiast
+🚀 Junior Software QA Engineer | Manual & Automation Testing Enthusiast
 
-I am passionate about ensuring software quality through Manual Testing and Automation Testing practices. I enjoy designing test cases, writing automation scripts, and using modern QA tools to deliver reliable software solutions.
+I deliver high-quality software through hands-on manual testing of web and desktop applications and automation testing using Cypress with JavaScript. I design and execute test cases, log defects with proper severity and priority, and maintain clear test documentation to ensure reliable software.
 
 🛠️ Skills & Tools
 
-Testing Types: Manual Testing, Functional Testing, Regression Testing, Smoke & Sanity Testing, Test Documentation
+Testing Types: Manual, Functional, Regression, Smoke & Sanity, API Testing
 
-Automation: Selenium WebDriver,  PyTest
+Automation: Cypress with JavaScript
 
-Languages: Python,SQL,Javascript
+Languages: JavaScript, SQL, Python
 
-Test Management & Bug Tracking: JIRA, 
+Test Management & Bug Tracking: JIRA, Qase.io
 
-Version Control: Git & GitHub
+Version Control: Git, GitHub
 
-Browsers: Google Chrome, Firefox
+Browsers: Chrome, Firefox
 
-📂 Projects
-🔹 Manual Testing Projects
+📂 Project Highlights
+Manual Testing Projects
 
-Designed and executed detailed Test Plans and 25+ test cases covering login, cart, and checkout workflows.
+Designed and executed test cases for login, registration, and note management (add, edit, search, delete)
 
-Documented bugs with severity & priority classification and prepared Test Summary Reports.
+Logged defects with severity and priority and prepared test summary reports
 
-🔹 Automation Testing Projects
+Automation Testing Projects
 
-Developed 20+ reusable automation scripts using Selenium WebDriver with Python.
+Built reusable Cypress automation scripts for web application features
 
-Implemented data-driven testing and created modular test scripts for scalability.
+Created modular test flows and assertions for maintainability
 
-Integrated version control using Git & GitHub to manage testing workflows.
-
-📊 GitHub Stats
-
-
-
+Managed test scripts and versioning using Git & GitHub
 
 📫 Connect With Me
 
-💼 LinkedIn: www.linkedin.com/in/bhupendrasen10
+LinkedIn: www.linkedin.com/in/bhupendrasen10
 
-📧 Email: bhupendrasen10@gmail.com
+Email: bhupendrasen10@gmail.com
 
-
-✨ Always learning, testing, and improving software quality.
+✨ Detail-oriented and analytical, with a strong QA mindset. Open to Junior / Associate QA opportunities.
